@@ -1,0 +1,21 @@
+.delivery{
+    padding: 80px 0 70px;
+    background: #212121;
+    text-align: center;
+    color: #ffffff;
+}
+.delivery__title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 0.02em;
+}
+.delivery__description{
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+}
+.delivery__title span{
+    font-weight: 400;
+}
