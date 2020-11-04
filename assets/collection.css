@@ -30,7 +30,7 @@
 .collection__image{
     position: absolute;
     right: 15px;
-    bottom: 0;
+    bottom: 10px;
 }
 .collection__title{
     font-style: normal;
@@ -55,4 +55,25 @@
     display: inline-flex;
     padding: 15px 30px;
     background: #D7B399;;
+}
+.collection__dress{
+    position: relative;
+    text-align: right;
+}
+.collection__dress-1:{
+    background-color: #F4F4F4;
+}
+.collection__dress-2{
+    background-color: #f9f6f1;
+}
+.collection__name{
+    position: absolute;
+    bottom: 25px;
+    left: 30px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+}
+.collection__dress__item{
+    max-width: 70%;
 }

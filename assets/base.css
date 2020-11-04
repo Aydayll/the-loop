@@ -35,6 +35,9 @@
   .font-regular{
     font-weight: 400;
   }
+  .col-3{
+    width: 25%;
+  }
   @media screen and(max-width:1024px);{
     .col-6{
       width: 100%;
