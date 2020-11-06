@@ -54,7 +54,7 @@
 .collection__link{
     display: inline-flex;
     padding: 15px 30px;
-    background: #D7B399;;
+    background: #D7B399;
 }
 .collection__dress{
     position: relative;
@@ -68,12 +68,16 @@
 }
 .collection__name{
     position: absolute;
-    bottom: 25px;
-    left: 30px;
+    bottom: 15px;
+    left: 15px;
     font-style: normal;
     font-weight: 300;
-    font-size: 21px;
+    font-size: 19px;
 }
 .collection__dress__item{
     max-width: 70%;
+}
+.collection__btn{
+    padding: 11px 30px;
+   
 }

@@ -1,0 +1,38 @@
+@media screen and (max-width:768px){
+    .hero__item {
+        text-align: center;
+        position: relative;
+    }
+    .hero__suptitle {
+        font-size: 18px;
+    }
+    .hero__title {
+        margin: 20px 0 25px;
+        font-size: 28px;
+    }
+    .hero__product {
+        position: unset;
+        max-width: 200px;
+        margin: -200px auto 30px;
+    }
+    .hero__oldPrice {
+        text-align: center;
+        font-size: 18px;
+    }
+    .btn {
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+    .col-6 {
+        width: 100%;
+    }
+    .hero__newPrice {
+        margin-top: 10px;
+        text-align: center;
+        font-size: 32px;
+    }
+    .hero .slick-dots {
+        bottom: 150px;
+    }
+
+}
