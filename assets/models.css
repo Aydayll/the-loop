@@ -9,7 +9,7 @@ font-size: 36px;
 line-height: 44px;
 letter-spacing: 0.04em;
 text-transform: uppercase;
-color: #212121;
+color: #2C3E50;
 }
 .models__row{
     padding-top: 100px;
@@ -42,24 +42,4 @@ color: #212121;
     line-height: 22px;
     text-align: center;
     color: #D7B399;
-}
-.models__btn{
-    display: inline-flex;
-    padding: 15px 30px;
-    background: #D7B399;
-}
-.models__btn span{
-    color: #fff;
-}
- .btn svg{
-fill:#fff;
-transition: fill 0.3s;
-}
-.btn:hover{
-background: white;
-color: #D7B399;
-border: 2px solid #D7B399;
-}
-.btn:hover svg{
-fill: #D7B399;
 }
