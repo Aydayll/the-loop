@@ -6,6 +6,7 @@
   
   body {
     font-family: 'Montserrat', sans-serif;
+    
   }
   
   .container {
@@ -68,33 +69,4 @@
   footer{
     display: block;
   }
-  @media screen and(max-width:1024px);{
-    .col-6{
-      width: 100%;
-    }
-    .btn{
-      display: inline-flex;
-      justify-content: center;
-      align-items: center;
-      padding: 11px 30px;
-      background: #D7B399;
-      color: #fff;
-      font-size: 16px;
-      font-weight: 400;
-      transition: 0.3s;
-      border: 2px solid transparent;
-    }
-    .btn svg{
-      fill:#fff;
-      transition: fill 0.3s;
-      align-items: center;
-    }
-    .btn:hover{
-      background: white;
-      color: #D7B399;
-      border: 2px solid #D7B399;
-    }
-    .btn svg:hover{
-      fill: #D7B399;
-    }
-  }
+  
